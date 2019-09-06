@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(25, 25, 114);
+}
+.image{
+    margin-top: 100px;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.name h1{
+    font-size: 52px;
+    color: white;
+    text-shadow: 2px 2px black;
+    
+}
