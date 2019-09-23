@@ -83,8 +83,12 @@ body{
 }
 .desc{
     color: white;
+    font-size: 1.1vw;
     margin-left: 5%;
     margin-right: 5%;
+}
+.textbounds{
+    height: 30vh;
 }
 .code{
     margin-left: 5%;
