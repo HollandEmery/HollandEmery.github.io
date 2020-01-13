@@ -25,6 +25,9 @@ body{
 .begining{
     margin-bottom: 3%;
 }
+.link-element{
+    display: inline;
+}
 .buttons:hover{
     transform: translate(0px, -10px);
     border-bottom: 10px solid transparent;
@@ -41,13 +44,15 @@ body{
 #test{
     color: white;
 }
+
 .projectbounds{
     margin-left: 5%;
     width: 90%;
 }
 .head{
-    color: white;
+    color: #32CD32;
     font-size: 7vw;
+    text-shadow: 6px 6px rgb(0, 0, 0);
 }
 .project{
     width: 17%;
