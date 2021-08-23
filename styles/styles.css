@@ -40,7 +40,8 @@ body{
 }
 .photo{
     display: flex;
-    max-height: 255px;
+    max-width: 15%;
+    min-width: 200px;
 }
 .name{
     margin-top: 3%;
